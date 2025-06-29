@@ -1,7 +1,7 @@
 # 💳 Dummy Payment Website
 
 ## 🌐 Live Demo  
-👉 [View Deployed App](https://your-deployment-link.com)
+👉 [View Deployed App](https://dummypaymentwebsite.netlify.app/)
 
 A **full-stack mock payment web application** built with the **MERN stack**, simulating real-world payment flows with a focus on security, user experience, and performance.
 
