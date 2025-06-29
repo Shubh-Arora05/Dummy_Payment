@@ -1,0 +1,39 @@
+.box{
+ /* width : 500px ; */
+ height :fit-content ;
+ display: flex;
+ padding: 9px;
+ flex-direction: column ;
+ gap: 3px ;
+ /* width: max-content; */
+ border: 5px solid black;
+ border-radius: 9px;
+ margin: 3px ;
+}
+
+*{
+    overflow-x: hidden;
+}
+
+.link{
+        color : white;
+        padding: 6px ;
+        
+        background-color:black;
+        border-radius: 12px ;
+        width: fit-content  
+}
+
+.all_box{
+    gap:2px;
+    margin: 12px ;
+    padding: 12px;
+    border: 2px solid black ;
+    border-radius: 6px;
+    width:full;
+    /* display: grid ; */
+    display: grid;
+    grid-template-columns: repeat(auto-fill,410px);
+    column-gap: 20px;
+    row-gap: 20px;
+}
